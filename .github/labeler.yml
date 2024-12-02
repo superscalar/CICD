@@ -1,7 +1,7 @@
 estilo:
   - changed-files:
-    - any-glob-to-any-file: 'styles.css'
+    - any-glob-to-any-file: '**/*.css'
 
 estructura:
   - changed-files:
-    - any-glob-to-any-file: 'index.html'
+    - any-glob-to-any-file: '**/*.html'
